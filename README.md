@@ -1,3 +1,4 @@
+
 # 小型甲殻類の標本の作成・管理方法
 
 `作成日：2023.06.25` 
@@ -71,9 +72,7 @@ WIP
 
 WIP
 
-![IMG_2738](https://github.com/yfuke/yfuke.github.io/blob/main/images/IMG_2738.jpeg)
-
-<img src="https://github.com/yfuke/yfuke.github.io/blob/main/images/IMG_2738.jpeg" alt="小分けにしてサンプル瓶で管理されるエビ">
+![小分けにしてサンプル瓶で管理されるエビ](./images/IMG_2738.jpeg)
 
 ### 保存容器
 
