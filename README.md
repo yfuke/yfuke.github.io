@@ -73,6 +73,8 @@ WIP
 
 ![IMG_2738](https://github.com/yfuke/yfuke.github.io/blob/main/images/IMG_2738.jpeg)
 
+<img src="https://github.com/yfuke/yfuke.github.io/blob/main/images/IMG_2738.jpeg" alt="小分けにしてサンプル瓶で管理されるエビ">
+
 ### 保存容器
 
 標本の一時的な保管用には50 mL遠沈管や300 mLの広口T型瓶を使っている。とりあえずこれに入れて冷蔵庫に入れて放ったらかすことが多く、こうした容器がどんどん溜まっていく・・・。DNA用組織を取り終えた後、常温で長期保管する際には[ケニスの広口サンプル瓶](https://www.kenis.co.jp/onlineshop/product/11310370)（いわゆるマヨネーズ瓶）を使っている。博物館に寄贈する際にもこの容器に入れることが多い。
